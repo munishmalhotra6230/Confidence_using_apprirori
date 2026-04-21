@@ -1,4 +1,5 @@
 # Apriori Market Basket Dashboard
+project->link:https://configuration-tools-version6230.streamlit.app/
 
 This project provides an interactive Streamlit dashboard to explore product relationships using the Apriori algorithm (implemented in `src/core.py`). It uses the Groceries dataset bundled in `Preprocessing/Groceries_dataset.csv` by default.
 
